@@ -38,7 +38,7 @@ ebcdic
 EbookLib
 elastic-transport
 elasticsearch
-entrypoin
+entrypoint2
 et-xmlfile
 executing
 extract-msg
