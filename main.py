@@ -1,5 +1,4 @@
 from flask import Flask,jsonify
-import redis
 from flask_restful import Api, Resource, reqparse, abort,fields, marshal_with
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash,check_password_hash
